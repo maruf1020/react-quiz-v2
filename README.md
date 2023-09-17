@@ -1,5 +1,5 @@
 # How to run this app
-firstly install npm i
+firstly install npm
 then npm run server
 then npm start 
 
