@@ -1,3 +1,9 @@
+# How to run this app
+firstly install npm i
+then npm run server
+then npm start 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
